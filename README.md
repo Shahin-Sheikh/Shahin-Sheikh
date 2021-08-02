@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://shahin-sheikh.github.io/)](https://shahin-sheikh.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muhamma26971341?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhamma26971341)
+[![Instagram Follow](https://img.shields.io/instagram/follow/stmt_shahin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/stmt_shahin/)
 
 ## I'm a Lover, Developer, and Student!!
 
