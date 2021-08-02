@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shahin-sheikh.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhamma26971341)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Lover, Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -13,11 +13,11 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play video games
 
-[![Shahin Sheikh GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid958&show_icons=true&theme=radical)](https://github.com/Shahin-Sheikh)
+[![Shahin Sheikh GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=radical)](https://github.com/Shahin-Sheikh)
 <br><br>
-[![Shahin Sheikh Language stack](https://github-readme-stats.vercel.app/api/top-langs/?username=tamzid958&theme=dark&layout=compact)](https://github.com/Shahin-Sheikh)
+[![Shahin Sheikh Language stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&theme=dark&layout=compact)](https://github.com/Shahin-Sheikh)
 
 ### Connect with me:
 
