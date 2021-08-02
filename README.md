@@ -6,7 +6,7 @@
 ## I'm a Lover, Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
