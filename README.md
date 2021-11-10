@@ -1,9 +1,9 @@
 ### Hi there, I'm Md. Shahin Sheikh - aka👋
 
 [![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://shahin-sheikh.github.io/)](https://shahin-sheikh.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Muhamma26971341?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Muhamma26971341)
+[![Twitter Follow](https://img.shields.io/twitter/follow/smtp_shahin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smtp_shahin)
 
-## I'm a Lover, Developer, and Student!!
+## I'm a Software Engineer, Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -46,13 +46,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 <br />
 
 ---
 
 [website]: https://shahin-sheikh.github.io/
-[twitter]: https://twitter.com/Muhamma26971341
+[twitter]: https://twitter.com/smtp_shahin
 [instagram]: https://www.instagram.com/stmt_shahin/
 [linkedin]: https://www.linkedin.com/in/shahin89/
