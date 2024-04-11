@@ -1,9 +1,9 @@
-### Hi there, I'm Md. Shahin Sheikh - aka👋
+### Hi there, I'm Md. Shahin Sheikh - aka 'Shahin'👋
 
-[![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://shahin-sheikh.github.io/)](https://shahin-sheikh.github.io/)
+[![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://shahin-sheikh.vercel.app/)](https://shahin-sheikh.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/smtp_shahin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smtp_shahin)
 
-## I'm a Software Engineer, Developer, and Student!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -56,7 +56,7 @@
 </br>
 ---
 
-[website]: https://shahin-sheikh.github.io/
+[website]: https://shahin-sheikh.vercel.app/
 [twitter]: https://twitter.com/smtp_shahin
 [instagram]: https://www.instagram.com/stmt_shahin/
-[linkedin]: https://www.linkedin.com/in/shahin89/
+[linkedin]: https://www.linkedin.com/in/shahinsheikh/
