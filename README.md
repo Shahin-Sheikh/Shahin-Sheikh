@@ -7,7 +7,7 @@
   <a href="https://shahin-sheikh.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22272e?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:shahin.dev.bd@gmail.com" target="_blank">
+  <a href="mailto:mdshahinsheikh763@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/shahinsheikh/" target="_blank">
@@ -48,7 +48,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-Gonic-00ADD8?style=flat)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -75,7 +74,7 @@
 ### 📫 Connect With Me
 
 - 🌐 Website: [shahin-sheikh.vercel.app](https://shahin-sheikh.vercel.app)
-- 💌 Gmail: shahin.dev.bd@gmail.com
+- 💌 Gmail: mdshahinsheikh763@gmail.com
 - 💼 LinkedIn: [@shahinsheikh](https://www.linkedin.com/in/shahinsheikh/)
 - 🐦 Twitter: [@smtp_shahin](https://twitter.com/smtp_shahin)
 
