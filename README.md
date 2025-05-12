@@ -1,62 +1,82 @@
-### Hi there, I'm Md. Shahin Sheikh - aka 'Shahin'👋
+<!-- Modern GitHub Profile README -->
 
-[![Website](https://img.shields.io/website?label=shahinsheikh.com&style=for-the-badge&url=https://shahin-sheikh.vercel.app/)](https://shahin-sheikh.vercel.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/smtp_shahin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smtp_shahin)
+<h1 align="center">Hi there, I'm Md. Shahin Sheikh 👋</h1>
+<h3 align="center">Mid-Level Software Engineer | Full-Stack Developer | Mentor</h3>
 
-## I'm a Software Engineer!!
+<p align="center">
+  <a href="https://shahin-sheikh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22272e?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:shahin.dev.bd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahinsheikh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/smtp_shahin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love to play video games
-
-[![Shahin Sheikh GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=radical)](https://github.com/Shahin-Sheikh)
-<br><br>
-[![Shahin Sheikh Language stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&theme=dark&layout=compact)](https://github.com/Shahin-Sheikh)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-
-
-
-
-
-</br>
-</br>
 ---
 
-[website]: https://shahin-sheikh.vercel.app/
-[twitter]: https://twitter.com/smtp_shahin
-[instagram]: https://www.instagram.com/stmt_shahin/
-[linkedin]: https://www.linkedin.com/in/shahinsheikh/
+### 🚀 About Me
+
+- 🔭 Currently working with **React, Next.js, Go/Gin, Node.js**
+- 📚 Actively learning **AI-assisted development tools**
+- 👨‍💻 Contributed to **Cartup** and **Foodi** – popular platforms in Bangladesh
+- 🧑‍🏫 Mentored junior devs on **logistics systems and CRM modules**
+- 🥅 2025 Goal: More **Open Source contributions**
+- 🎮 Fun fact: I love competitive multiplayer games
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-Gonic-00ADD8?style=flat)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/-PgAdmin-008BB9?style=flat&logo=postgresql)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=radical" alt="Shahin's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&layout=compact&theme=radical" alt="Top Langs" height="165" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 Website: [shahin-sheikh.vercel.app](https://shahin-sheikh.vercel.app)
+- 💌 Gmail: shahin.dev.bd@gmail.com
+- 💼 LinkedIn: [@shahinsheikh](https://www.linkedin.com/in/shahinsheikh/)
+- 🐦 Twitter: [@smtp_shahin](https://twitter.com/smtp_shahin)
+
+---
