@@ -1,11 +1,21 @@
 <!-- Modern GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Md. Shahin Sheikh 👋</h1>
-<h3 align="center">Mid-Level Software Engineer | Full-Stack Developer | Mentor</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Shahin%20Sheikh&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Mid-Level+Software+Engineer;Full-Stack+Developer+%7C+Mentor;React+%7C+Next.js+%7C+Go+%7C+Node.js;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahin-Sheikh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Shahin-Sheikh?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
 
 <p align="center">
   <a href="https://shahin-sheikh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22272e?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:mdshahinsheikh763@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -14,68 +24,209 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/smtp_shahin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ### 🚀 About Me
 
+```yaml
+name: Md. Shahin Sheikh
+located_in: Bangladesh
+current_role: Mid-Level Software Engineer
+company: Building scalable solutions
+education:
+  - "Computer Science & Engineering"
+fields_of_interests:
+  - "Full-Stack Development"
+  - "Cloud Architecture"
+  - "AI-Assisted Development"
+  - "Open Source"
+currently_learning: ["AI Tools", "System Design", "Microservices"]
+2026_goals: ["More Open Source Contributions", "Build SaaS Products"]
+hobbies: ["Competitive Gaming", "Tech Blogging", "Mentoring"]
+```
+
 - 🔭 Currently working with **React, Next.js, Go/Gin, Node.js**
-- 📚 Actively learning **AI-assisted development tools**
 - 👨‍💻 Contributed to **Cartup** and **Foodi** – popular platforms in Bangladesh
-- 🧑‍🏫 Mentored junior devs on **logistics systems and CRM modules**
-- 🥅 2025 Goal: More **Open Source contributions**
-- 🎮 Fun fact: I love competitive multiplayer games
+- 🧑‍🏫 Mentored junior developers on **logistics systems and CRM modules**
+- 💬 Ask me about **React, Next.js, Node.js, Go, Full-Stack Development**
+- 📫 Reach me at **mdshahinsheikh763@gmail.com**
+- ⚡ Fun fact: **I love competitive multiplayer games** 🎮
+
+<br clear="right"/>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
 
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/-PgAdmin-008BB9?style=flat&logo=postgresql)
+</details>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+</details>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=radical" alt="Shahin's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&layout=compact&theme=radical" alt="Top Langs" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahin-Sheikh&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahin-Sheikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shahin-Sheikh&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahin-Sheikh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahin-Sheikh/Shahin-Sheikh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahin-Sheikh/Shahin-Sheikh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahin-Sheikh/Shahin-Sheikh/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 💼 Professional Experience Highlights
+
+```typescript
+const experience = {
+  current: "Mid-Level Software Engineer",
+  yearsOfExperience: 3,
+  projectsCompleted: 15+,
+  technologies: ["React", "Next.js", "Go", "Node.js", "MongoDB", "PostgreSQL"],
+  achievements: [
+    "Built and deployed logistics management system",
+    "Developed CRM modules used by 1000+ users",
+    "Mentored 5+ junior developers",
+    "Contributed to Cartup & Foodi platforms"
+  ]
+};
+```
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### 📫 Connect With Me
 
-- 🌐 Website: [shahin-sheikh.vercel.app](https://shahin-sheikh.vercel.app)
-- 💌 Gmail: mdshahinsheikh763@gmail.com
-- 💼 LinkedIn: [@shahinsheikh](https://www.linkedin.com/in/shahinsheikh/)
-- 🐦 Twitter: [@smtp_shahin](https://twitter.com/smtp_shahin)
+<p align="center">
+  <a href="https://shahin-sheikh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-shahin--sheikh.vercel.app-00C7B7?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:mdshahinsheikh763@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-mdshahinsheikh763@gmail.com-D14836?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahinsheikh/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-shahinsheikh-0077B5?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/smtp_shahin" target="_blank">
+    <img src="https://img.shields.io/badge/🐦_Twitter-@smtp__shahin-1DA1F2?style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
 ---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Shahin-Sheikh">Shahin-Sheikh</a> | Made with ❤️ and ☕
+</p>
