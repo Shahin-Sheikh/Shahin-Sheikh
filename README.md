@@ -184,8 +184,8 @@ hobbies: ["Competitive Gaming", "Tech Blogging", "Mentoring"]
 
 ```typescript
 const experience = {
-  current: "Mid-Level Software Engineer",
-  yearsOfExperience: 3,
+  current: "Software Engineer",
+  yearsOfExperience: 5,
   projectsCompleted: "15+",
   specialization: "Full-Stack Development & Microservices",
   technologies: [
