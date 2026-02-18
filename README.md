@@ -96,7 +96,7 @@ hobbies: ["Competitive Gaming", "Tech Blogging", "Mentoring"]
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahin-Sheikh&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahin-Sheikh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -104,13 +104,38 @@ hobbies: ["Competitive Gaming", "Tech Blogging", "Mentoring"]
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahin-Sheikh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahin-Sheikh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
+
+<!-- GitHub Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com?user=Shahin-Sheikh&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Shahin-Sheikh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=false" alt="Top Contributed Repo" />
+  
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahin-Sheikh&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=320" alt="Top Languages" />
+
+<!-- Productive Time -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shahin-Sheikh&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
+<!-- Additional Modern Stats -->
+<div align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahin-Sheikh&theme=radical" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahin-Sheikh&theme=radical" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahin-Sheikh&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahin-Sheikh&theme=radical" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahin-Sheikh&theme=radical&utcOffset=6" alt="Productive Time" />
 </div>
 
 ---
@@ -118,8 +143,15 @@ hobbies: ["Competitive Gaming", "Tech Blogging", "Mentoring"]
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahin-Sheikh&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahin-Sheikh&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
+<!-- Alternative: Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahin-Sheikh/Shahin-Sheikh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahin-Sheikh/Shahin-Sheikh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shahin-Sheikh/Shahin-Sheikh/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
