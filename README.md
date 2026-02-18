@@ -93,14 +93,6 @@ hobbies: ["Competitive Gaming", "Tech Blogging", "Mentoring"]
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahin-Sheikh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
